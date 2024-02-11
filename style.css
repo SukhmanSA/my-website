@@ -29,7 +29,7 @@ body{
 
 #ch1{
     background-color: rgb(245, 192, 139);
-    font-size: 10px;
+    font-size: 22px;
     border-style: solid ;
     border-top: none;
     margin-left: -10px;
@@ -39,6 +39,7 @@ body{
     padding-bottom: 6px;
     position: fixed;
     z-index: 1000;
+    padding-inline: 30px;
 }
 
 #p1{
