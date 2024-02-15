@@ -19,6 +19,7 @@
 }
 body{
     background-color:#fbe8d0;
+    margin-inline:0px;
 }
 .ch{
     display: inline-block;
